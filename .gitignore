@@ -1,0 +1,14 @@
+.sconsign.dblite
+libwinlib.a
+*.sdf
+*.opensdf
+*.swp
+*.o
+*.suo
+Debug
+Release
+x64
+ipch
+bin/
+obj/
+*.ncb
