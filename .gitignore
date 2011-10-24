@@ -5,6 +5,7 @@ libwinlib.a
 *.swp
 *.o
 *.suo
+*.user
 Debug
 Release
 x64
