@@ -1,6 +1,8 @@
 PrinterStatus
 =============
 
+**Download [printerstatus](http://mvysin.com/projects/view/printerstatus) for immediate use from my website.**
+
 Seen those pictures around the web with printers asking for coins, moar
 BBQ sauce, paper jams in non-existent locations, or plans for world domination?
 
